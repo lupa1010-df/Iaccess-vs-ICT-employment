@@ -77,8 +77,8 @@ The project explores the relationship between household internet access and empl
 Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
 
 ## Contact
-Paul Bacher, 
-paulbacher@hotmail.com
+- **Email**: paulbacher@hotmail.com
+- **GitHub**: lupa1010-df
 
 ## Acknowledgments
 - Eurostat for providing the original data
